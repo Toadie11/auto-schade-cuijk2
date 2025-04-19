@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
@@ -24,4 +24,36 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+} */
+
+.bg-color-black {
+  background: #181c14;
+}
+
+.bg-color-gray {
+  background: #3c3d37;
+}
+
+.bg-color-green {
+  background: #697565;
+}
+
+.bg-color-beige {
+  background: #ecdfcc;
+}
+
+.text-color-black {
+  color: #181c14;
+}
+
+.text-color-gray {
+  color: #3c3d37;
+}
+
+.text-color-green {
+  color: #697565;
+}
+
+.text-color-beige {
+  color: #ecdfcc;
 }
