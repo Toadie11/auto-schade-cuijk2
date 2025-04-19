@@ -46,7 +46,7 @@ export default function Header() {
 
       <div className="block lg:hidden">
         <img
-          src="/Images/Header/menuLogoGray.png"
+          src="/Images/Header/MenuLogoGray.png"
           alt="Menu Icon"
           onClick={toggleMenu}
           className="cursor-pointer mt-4 mr-2 sm:mt-4 w-10 sm:w-12"
