@@ -35,7 +35,7 @@ export default function Spuitwerken() {
             <div className="bg-color-green text-xs font-semibold text-center text-color-beige pt-2 w-90 md:text-3xl">
               Perfecte Kleuren
             </div>
-            <div className="text-[6px] px-2 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
+            <div className="text-[6px] px-2 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 h-8 md:h-20">
               Wij mengen de lak exact op fabriekskleur, onzichtbaar herstel.
             </div>
           </div>
@@ -47,7 +47,7 @@ export default function Spuitwerken() {
             <div className="bg-color-green text-xs font-semibold text-center text-color-beige pt-2 w-90 md:text-3xl">
               Stofvrij
             </div>
-            <div className="text-[6px] px-2 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
+            <div className="text-[6px] px-2 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 h-8 md:h-20">
               Onze moderne cabine garandeert een strak en stofvrij resultaat.
             </div>
           </div>
@@ -59,7 +59,7 @@ export default function Spuitwerken() {
             <div className="bg-color-green text-xs font-semibold text-center text-color-beige pt-2 w-90 md:text-3xl">
               Kwaliteitslakken
             </div>
-            <div className="text-[6px] px-2 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
+            <div className="text-[6px] px-2 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 h-8 md:h-20">
               We gebruiken alleen hoogwaardige lakken voor een langdurige glans.
             </div>
           </div>
