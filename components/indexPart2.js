@@ -10,7 +10,7 @@ export default function IndexPart2() {
           <div className="bg-color-green text-xs font-semibold text-center text-color-beige pt-2 w-90 md:text-3xl">
             Reparaties
           </div>
-          <div className="text-[6px] text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
+          <div className="text-[6px] px-2 h-6 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
             Snelle en betrouwbare auto reparaties, voor elk merk.
           </div>
         </div>
@@ -19,7 +19,7 @@ export default function IndexPart2() {
           <div className="bg-color-green text-xs font-semibold text-center text-color-beige pt-2 w-90 md:text-3xl">
             Spuitwerk
           </div>
-          <div className="text-[6px] text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
+          <div className="text-[6px] px-2 h-6 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
             Professioneel spuitwerk voor schadeherstel of make-over.
           </div>
         </div>
@@ -28,7 +28,7 @@ export default function IndexPart2() {
           <div className="bg-color-green text-xs font-semibold text-center text-color-beige pt-2 w-90 md:text-3xl">
             Occasions
           </div>
-          <div className="text-[6px] text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
+          <div className="text-[6px] px-2 h-6 text-center bg-color-green text-color-beige leading-none pb-2 w-90 md:text-sm md:leading-none md:pt-2 md:px-12 md:h-20">
             Betrouwbare occasions met garantie.
           </div>
         </div>
